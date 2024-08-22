@@ -6,6 +6,6 @@ Todos os códigos são exemplos práticos de aprendizado de máquina, e devem co
 # Pasta: Regressor Linear 
 
 Contém:
-- Código python do regressor linear univariado
+- Código python do Regressor Linear Univariado
 - Imagem do Algoritmo do R.L.U.
 - Imagem da função de custo do R.L.U.
