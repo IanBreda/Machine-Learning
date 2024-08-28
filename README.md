@@ -9,6 +9,7 @@ Contém:
 - Código python do Regressor Linear Univariado
 - Imagem do algoritmo do R.L.U.
 - Imagem da função de custo do R.L.U.
+- Imagem das derivadas parciais do R.L.U.
 
 - Código python do Regressor Linear Multivariado
 - Imagem do algoritmo do R.L.M.
