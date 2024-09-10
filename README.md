@@ -15,3 +15,12 @@ Contém:
 - Imagem do algoritmo do R.L.M.
 - Imagem da função de custo do R.L.M.
 - Imagem das derivadas parciais do R.L.M.
+
+# Pasta: Regressor Logistico
+
+Contém:
+- Código python do Regressor Logistico.
+- Imagem do algoritmo do R.L.
+- Imagem da função de custo do R.L.
+- Imagem da derivada do R.L.
+- Imagem da função hipotese do R.L.
