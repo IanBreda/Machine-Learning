@@ -26,6 +26,7 @@ Contém:
 - Imagem da função hipotese do R.L.
 
 # Pasta: Redes Neurais
-
+# Perceptron
 Contém:
 - Notebook Jupyter do Perceptron
+- 3 Datasets utilizados no treinamento/teste
