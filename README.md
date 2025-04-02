@@ -24,3 +24,8 @@ Contém:
 - Imagem da função de custo do R.L.
 - Imagem da derivada do R.L.
 - Imagem da função hipotese do R.L.
+
+# Pasta: Redes Neurais
+
+Contém:
+- Notebook Jupyter do Perceptron
