@@ -27,6 +27,6 @@ Contém:
 
 # Pasta: Redes Neurais
 - # Perceptron
--Contém:
--- Notebook Jupyter do Perceptron
--- 3 Datasets utilizados no treinamento/teste
+- Contém:
+- - Notebook Jupyter do Perceptron
+- - 3 Datasets utilizados no treinamento/teste
