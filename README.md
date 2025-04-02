@@ -29,4 +29,5 @@ Contém:
 - # Perceptron
   Contém:
  - Notebook Jupyter do Perceptron
- - 3 Datasets utilizados no treinamento/teste
+ - 3 Datasets utilizados no treinamento
+ - 3 Datasets utilizados no teste
