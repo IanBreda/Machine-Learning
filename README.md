@@ -37,3 +37,9 @@ Contém:
  - Notebook Jupyter do Adaline
  - 3 Datasets utilizados no treinamento
  - 3 Datasets utilizados no teste
+
+# Pasta: CIN (Computação Inspirada pela Natureza)
+- # Algoritmo Genético
+  Contém:
+ - Código Python de um algoritmo genético para reconhecimento de padrões
+ - Função de cross-over e mutações
