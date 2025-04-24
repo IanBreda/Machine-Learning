@@ -41,7 +41,7 @@ Contém:
 # Pasta: CIN (Computação Inspirada pela Natureza)
 - # Algoritmo Genético
   Contém:
- - Código Python de um algoritmo genético para reconhecimento de padrões
- - Código python de um algoritmo genético para maximização de uma função com vários pontos de ótimos locais
- - Código python de um algoritmo genético para minimização da função de rosenbrock
+ - Código Python de um algoritmo genético para reconhecimento de padrões (Exerc 1)
+ - Código python de um algoritmo genético para maximização de uma função com vários pontos de ótimos locais (Exerc 2)
+ - Código python de um algoritmo genético para minimização da função de rosenbrock (Exerc 3)
  
