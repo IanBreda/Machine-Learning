@@ -1,6 +1,6 @@
-# Sobre o repositório de ML
+# Sobre o repositório
 
-Neste repositório pretendo incluir códigos, desenvolvidos por mim, que me auxiliaram nos estudos das técnicas de ML.
+Neste repositório pretendo incluir códigos, desenvolvidos por mim, que me auxiliaram nos estudos das técnicas de ML e IA no geral.
 Todos os códigos são exemplos práticos de aprendizado de máquina, e devem conter um código python + outros arquivos úteis para o entendimento.
 
 # Pasta: Regressor Linear 
@@ -42,4 +42,6 @@ Contém:
 - # Algoritmo Genético
   Contém:
  - Código Python de um algoritmo genético para reconhecimento de padrões
- - Função de cross-over e mutações
+ - Código python de um algoritmo genético para maximização de uma função com vários pontos de ótimos locais
+ - Código python de um algoritmo genético para minimização da função de rosenbrock
+ 
