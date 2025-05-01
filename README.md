@@ -38,6 +38,11 @@ Contém:
  - 3 Datasets utilizados no treinamento
  - 3 Datasets utilizados no teste
 
+- # MLP
+  Contém:
+ - Notebook Jupyter do MLP
+ - Algumas anotações feitas antes da programação
+
 # Pasta: CIN (Computação Inspirada pela Natureza)
 - # Algoritmo Genético
   Contém:
