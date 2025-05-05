@@ -7,6 +7,7 @@ Todos os códigos são exemplos práticos de aprendizado de máquina, e devem co
 
 Contém:
 - Código python do Regressor Linear Univariado.
+- Código python do Regressor Linear Univariado (usando o pytorch).
 - Imagem do algoritmo do R.L.U.
 - Imagem da função de custo do R.L.U.
 - Imagem das derivadas parciais do R.L.U.
