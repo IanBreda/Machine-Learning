@@ -41,8 +41,9 @@ Contém:
 
 - # MLP
   Contém:
- - Notebook Jupyter do MLP
+ - Notebook Jupyter de um MLP usando apenas numpy (dataset MNIST)
  - Algumas anotações feitas antes da programação
+ - Código python de um MLP usando pytorch (dataset MNIST)
 
 # Pasta: CIN (Computação Inspirada pela Natureza)
 - # Algoritmo Genético
