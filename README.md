@@ -45,6 +45,12 @@ Contém:
  - Algumas anotações feitas antes da programação
  - Código python de um MLP usando pytorch (dataset MNIST)
 
+- # CNN
+  Contém:
+ - Notebook Jupyter de uma CNN treinada no dataset CIFAR10
+ - PDF do notebook
+ - 8 Modelos (pesos) treinados em diferentes arquiteturas (convoluções, pooling/maxpooling e camadas fully connected), otimizadores (SGD e ADAM) e dropout (10% ou 30%)
+
 # Pasta: CIN (Computação Inspirada pela Natureza)
 - # Algoritmo Genético
   Contém:
