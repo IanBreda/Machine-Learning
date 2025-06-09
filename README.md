@@ -51,6 +51,11 @@ Contém:
  - PDF do notebook
  - 8 Modelos (pesos) treinados em diferentes arquiteturas (convoluções, pooling/maxpooling e camadas fully connected), otimizadores (SGD e ADAM) e dropout (10% ou 30%)
 
+- # LAC-NAS
+  Contém:
+ - Notebook Jupyter do NAS
+ - Artigo explicativo para explicar o funcionamento e motivação do código
+
 # Pasta: CIN (Computação Inspirada pela Natureza)
 - # Algoritmo Genético
   Contém:
